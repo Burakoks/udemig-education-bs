@@ -19,4 +19,6 @@ Bu proje, HTML, CSS ve Bootstrap kullanılarak geliştirilmiş modern ve kullan�
 
  -Kolayca özelleştirilebilir yapı
 
+ <h2> Ekran Görüntüsü </h2>
+
  ![](ekran.gif)
