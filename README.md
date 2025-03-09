@@ -4,7 +4,9 @@ Bu proje, HTML, CSS ve Bootstrap kullanılarak geliştirilmiş modern ve kullan�
 <h2> Kullanılan Teknolojiler </h2>
 
  -HTML
+ 
  -CSS
+ 
  -Bootstrap
 
  <h2> Özellikler </h2>
