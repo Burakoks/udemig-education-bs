@@ -7,6 +7,7 @@ Bu proje, HTML, CSS ve Bootstrap kullanılarak geliştirilmiş modern ve kullan�
  -Bootstrap
 
  <h2> Özellikler </h2>
+ 
  -Mobil uyumlu tasarım
 
  -Kullanıcı dostu arayüz
